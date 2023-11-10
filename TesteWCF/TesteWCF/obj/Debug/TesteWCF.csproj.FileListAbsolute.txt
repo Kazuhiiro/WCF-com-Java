@@ -1,0 +1,7 @@
+C:\Users\t_yan.kamo\Desktop\TesteWCF\TesteWCF\obj\Debug\TesteWCF.csproj.AssemblyReference.cache
+C:\Users\t_yan.kamo\Desktop\TesteWCF\TesteWCF\obj\Debug\TesteWCF.csproj.CoreCompileInputs.cache
+C:\Users\t_yan.kamo\Desktop\TesteWCF\TesteWCF\bin\TesteWCF.dll.config
+C:\Users\t_yan.kamo\Desktop\TesteWCF\TesteWCF\bin\TesteWCF.dll
+C:\Users\t_yan.kamo\Desktop\TesteWCF\TesteWCF\bin\TesteWCF.pdb
+C:\Users\t_yan.kamo\Desktop\TesteWCF\TesteWCF\obj\Debug\TesteWCF.dll
+C:\Users\t_yan.kamo\Desktop\TesteWCF\TesteWCF\obj\Debug\TesteWCF.pdb
